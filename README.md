@@ -7,7 +7,7 @@
 School of Computer Science and Engineering, Northeastern University, Shenyang 110819, China  
 \*Corresponding author: [`weiyangjie@cse.neu.edu.cn`](mailto:weiyangjie@cse.neu.edu.cn)
 
-[![Status](https://img.shields.io/badge/Status-Under%20Review%20(Information%20Fusion)-0F766E)](https://github.com/ChengLeiNEU/AeroRGBT-Ground)
+[![Status](https://img.shields.io/badge/Status-Under%20Review-0F766E)](https://github.com/ChengLeiNEU/AeroRGBT-Ground)
 [![Benchmark](https://img.shields.io/badge/Benchmark-5%2C674%20Queries%20%2F%205%2C213%20Pairs-1E293B)](https://github.com/ChengLeiNEU/AeroRGBT-Ground)
 [![Backbone](https://img.shields.io/badge/Backbone-Qwen3--VL--4B--Instruct-C97A24)](https://huggingface.co/Qwen/Qwen3-VL-4B-Instruct)
 
@@ -36,7 +36,7 @@ Alongside the benchmark, we propose **MARG** (**M**odality-**A**ware **R**easoni
 
 ## Release Status
 
-> **Note:** The manuscript is currently under peer review at *Information Fusion*. Public code, annotation files, and checkpoints will be released here immediately upon acceptance:
+> **Note:** The manuscript is currently under peer review. Public code, annotation files, and checkpoints will be released here immediately upon acceptance:
 
 - [x] Project overview & benchmark/method documentation
 - [ ] AeroRGBT-Ground derivative benchmark annotations (`train` / `dev` / `test`) & evaluation suite *(upon acceptance)*
@@ -111,7 +111,7 @@ TIR shows 2 buses in total: one in top-left and one in bottom-right, uniquely id
 @article{cheng2026aerorgbt,
   title   = {AeroRGBT-Ground: A Benchmark and Modality-Arbitrated Fusion Reasoning Framework for UAV Visual Grounding},
   author  = {Cheng, Lei and Wei, Yangjie and Feng, Xinyue and Wang, Xinyuan and Wang, Yuqiao and Li, Mei and Niu, Ben},
-  journal = {Information Fusion (Under Review)},
+  journal = {Preprint (Under Review)},
   year    = {2026}
 }
 ```
